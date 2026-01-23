@@ -2,29 +2,29 @@
 
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Garrett Green
+- Email: green.467@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [garrett-green2's GitHub Profile](https://github.com/garrett-green2)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         |    displays a list of commands to use    |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| Get-Location | pwd    |    displays directory that user is currently in    |
+| Get-ChildItem | ls    |    retrieves a list of files and directories from a particular location    |
+| mkdir   | mkdir       |      creates a new directory  |
+| Set-Location | cd     |    moves the current directory to a user-specified path    |
+| New-Item | touch      |    creates a new item    |
+| Move-Item | mv        |    moves items from one location to another    |
+| Copy-Item | cp        |    copies items from one location to another    |
+| Remove-Item | rm      |    deletes items    |
+| notepad.exe | vim     |    opens notepad    |
 
 ## Part 3 - Command Line Navigation
 
