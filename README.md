@@ -43,14 +43,14 @@ My Command Line Shell is:
 4. Go into `DirA`: cd dirA
 5. Go into `Dir B` from `DirA`: cd C:\Users\Garrett\DirA\dir B
 6. Return to your user's home directory: 
-7. Create a file named `test.txt`: 
-8. Move the file named `test.txt` into `DirA`: 
+7. Create a file named `test.txt`: New-Item test.txt
+8. Move the file named `test.txt` into `DirA`: Move-Item test.txt dirA
 9. Contents of `test.txt`: 
 ```
-Put your words here
+hgieruhopudfghiofdfg
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`: 
-11. View the contents of `DirA`: 
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: Copy-Item test.txt copy.txt
+11. View the contents of `DirA`: Get-ChildItem
 12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: 
 13. Delete / remove both `fodder.txt` AND `Dir B`: 
 
