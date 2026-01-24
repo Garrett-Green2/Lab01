@@ -42,7 +42,7 @@ My Command Line Shell is:
 3. Create a directory named `Dir B`: mkdir "dir B"
 4. Go into `DirA`: cd dirA
 5. Go into `Dir B` from `DirA`: cd C:\Users\Garrett\DirA\dir B
-6. Return to your user's home directory: 
+6. Return to your user's home directory: cd ../..
 7. Create a file named `test.txt`: New-Item test.txt
 8. Move the file named `test.txt` into `DirA`: Move-Item test.txt dirA
 9. Contents of `test.txt`: 
